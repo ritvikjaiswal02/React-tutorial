@@ -1,0 +1,10 @@
+body {
+  background-color: black;
+  color: bisque;
+}
+button {
+  font-weight: bolder !important;
+}
+div {
+  margin: 10px;
+}
